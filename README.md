@@ -1,5 +1,5 @@
 # Score-Board-management-system-of-cricket
-##How to run this project.
+## How to run this project.
 1. Install requirements from requirements.txt
 ```
 $ pip install -r requirements.txt
